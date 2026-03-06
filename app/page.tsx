@@ -1,4 +1,4 @@
-import DrakePortfolio from "@/components/drake-portfolio/DrakePortfolio";
+import DrakePortfolio from "@/components/DrakePortfolio";
 
 export default function Home() {
   return <DrakePortfolio />;
